@@ -1,6 +1,6 @@
-![Holopin Badge](https://holopin.io/userbadge/mohitshah03)
-
 ## 🦀 Hey there, fellow devs! I'm Mohit!
+
+[![An image of @mohitshah03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitshah03)](https://holopin.io/@mohitshah03)
 
 ```rust
 fn main() {
