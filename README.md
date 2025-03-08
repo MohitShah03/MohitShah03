@@ -1,3 +1,5 @@
+![Holopin Badge](https://holopin.io/userbadge/@mohitshah03)
+
 ## 🦀 Hey there, fellow devs! I'm Mohit!
 
 ```rust
