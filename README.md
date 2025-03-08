@@ -1,4 +1,16 @@
-## Hi there 👋
+## 🦀 Hey there, fellow devs! I'm Mohit!
+
+```rust
+fn main() {
+    println!("Welcome to my GitHub! 🚀");
+}
+```
+
+### 🛠️ Tech Stack
+- 🦀 **Rust** – Fearless concurrency, just like my caffeine intake!
+- 🟢 **Node.js** – Async vibes only.
+- ⚡ **Express.js & Sails.js** – Keeping the backend smooth.
+- 🔥 **JavaScript** – Can't escape it, so I mastered it!
 
 <!--
 **MohitShah03/MohitShah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
