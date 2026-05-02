@@ -9,10 +9,10 @@ fn main() {
 ```
 
 ### 🛠️ Tech Stack
-- 🦀 **Rust** – Fearless concurrency, just like my caffeine intake!
-- 🟢 **Node.js** – Async vibes only.
-- ⚡ **Express.js & Sails.js** – Keeping the backend smooth.
-- 🔥 **JavaScript** – Can't escape it, so I mastered it!
+- ⚡ Express.js & NestJS – My go-to backend foundation. Fast, structured, and production-ready.
+- 🧠 Python & LangGraph – Building intelligent systems, AI agents, and workflows that actually think.
+- 🦀 Rust – Performance + safety when things need to be rock solid.
+- 🛠️ System Design & Backend Architecture – Because writing code is easy, designing systems isn’t.
 
 <!--
 **MohitShah03/MohitShah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
